@@ -1,9 +1,5 @@
 ### Bem vindo! Me chamo Israel Viana 👋
 
-
-
-- 🔭 Atuamente trabalho com desenvolvimento mobile
-- 📚 Estudando e me aprofundando em Flutter
 - 👨‍🎓 Dedicado a aprender novas tecnológias e linguagens
 
 
