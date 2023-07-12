@@ -8,12 +8,6 @@
 - Banco de dados: <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">PostgreSQL, <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">MySQL
 
 
-<div align="center">
-  <a href="https://github.com/israelviana">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=israelviana&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israelviana&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
 ##
 
 <div> 
