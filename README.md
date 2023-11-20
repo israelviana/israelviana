@@ -1,6 +1,6 @@
 ### Bem vindo! Me chamo Israel Viana 👋
 
-- 👨‍🎓 Dedicado a aprender novas tecnológias e linguagens
+- 👨‍🎓 Dedicado a aprender novas tecnologias e linguagens
 
 
 - Linguagens: <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg">Golang, <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/>Dart, <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />JavaScript,<img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>Typescript ,
