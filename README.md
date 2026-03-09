@@ -1,10 +1,14 @@
-### Welcome! My name is Israel 👋
-
-- 👨‍🎓 Dedicated to learning new languages and technologies
-<div> 
-  <a href = "mailto:israelviana232@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/israel-viana-361840228/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
-
-
+## Hey, I'm Israel Viana 👋
+Software Developer focused on **backend**, working across different architectural styles —
+from monoliths and modular monoliths to distributed systems and microservices.
+### 🛠️ Tech Stack
+- **Languages:** Go · C# · TypeScript · JavaScript
+- **Frameworks:** .NET · React · Vue.js · Flutter
+- **Cloud:** Google Cloud Platform (Cloud Run, BigQuery, BigTable, Spanner)
+- **Messaging:** Apache Kafka
+- **Databases:** PostgreSQL · MongoDB · Redis
+- **Others:** Docker · gRPC · REST APIs · CI/CD (GitHub Actions)
+### 🎓 Education
+Computer Science — **University of Fortaleza (UNIFOR)**
+### 📫 Contact
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/israel-viana/)
